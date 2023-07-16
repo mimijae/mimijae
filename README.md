@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mimijae&show_icons=true&theme=radical&locale=en" alt="mimijae" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mimijae&theme=highcontrast" alt="mimijae" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mimijae&theme=dark" alt="mimijae" /></p>
