@@ -44,6 +44,7 @@
 ## 이메일
 - [qzqzcaraz00@gamil.com]
 
+## 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mimijae&show_icons=true&theme=radical&locale=en&layout=compact" alt="mimijae" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mimijae&show_icons=true&theme=radical&locale=en" alt="mimijae" /></p>
