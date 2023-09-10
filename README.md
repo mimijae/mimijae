@@ -1,8 +1,5 @@
 # 환영합니다👋
 
-<h1 align="center">안녕하세요, 이민재 입니다</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mimijae&label=Profile%20views&color=af4bf1&style=flat" alt="mimijae" /> </p>
-
 ### 소개
 - 계명대학교 컴퓨터공학전공 컴퓨터공학부 입니다.
 - 백엔드 개발에 흥미를 느끼고있는 학생입니다.
