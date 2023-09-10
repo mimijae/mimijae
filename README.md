@@ -1,18 +1,15 @@
-### About me 👋
+# 환영합니다👋
 
-<h1 align="center">Hi 👋, I'm Minjae Lee</h1>
-<h3 align="center">I am Minjae Lee, majoring in computer engineering at Keimyung University.</h3>
-
+<h1 align="center">안녕하세요, 이민재 입니다</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mimijae&label=Profile%20views&color=af4bf1&style=flat" alt="mimijae" /> </p>
 
-- 🌱 I’m currently learning **Django, Flutter**
+### 소개
+- 계명대학교 컴퓨터공학전공 컴퓨터공학부 입니다.
+- 백엔드 개발에 흥미를 느끼고있는 학생입니다.
+- 현재 저는 Django 프레임워크를 활용하여 사내 ERP 시스템의 풀스택 개발을 진행하였고, 이를 Naver Cloud Platform(NCP) 위에 배포하여 안정적으로 운영 중입니다.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/minj_ae__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minj_ae__" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">기술스택</h3>
+<h3 align="left">기술스택:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" /></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" /></a>
@@ -32,6 +29,21 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>
 </p>
 
+## 프로젝트 포트폴리오
+- [사내 ERP 웹 시스템] - Django, Bootstrap, HTML, CSS, JS, PostgreSql, NCP
+- [소상공인을 위한 마케팅 플랫폼] - Django(MSA)
+- [영어 고문서 검색기 프로그램] - C#, Winform, AccessDB
+- [esp32와 통신을 주고받는 앱] - Flutter
+  
+## 공부해보고싶은 분야
+- MSA
+- CI/CD
+
+## 개인 블로그
+
+
+## 이메일
+- [qzqzcaraz00@gamil.com]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mimijae&show_icons=true&theme=radical&locale=en&layout=compact" alt="mimijae" /></p>
 
