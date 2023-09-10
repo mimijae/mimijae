@@ -32,8 +32,8 @@
 
 
 ## 프로젝트 포트폴리오
-- [사내 ERP 웹 시스템] - Django, Bootstrap, HTML, CSS, JS, PostgreSql, NCP
-- [소상공인을 위한 마케팅 플랫폼] - Django(MSA)
+- [사내 ERP 웹 시스템] - Django, Bootstrap, HTML, CSS, JS, PostgreSql, Docker, Ubuntu, NCP
+- [소상공인을 위한 마케팅 플랫폼] - Django(MSA), MySQL
 - [영어 고문서 검색기 프로그램] - C#, Winform, AccessDB
 - [esp32와 통신을 주고받는 앱] - Flutter
   
