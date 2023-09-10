@@ -1,13 +1,13 @@
 # 환영합니다👋
 
-### 소개
+## 소개
 - 계명대학교 컴퓨터공학전공 컴퓨터공학부에 재학중인 이민재 입니다.
 - 백엔드 개발에 흥미를 느끼고있는 학생입니다.
 - 현재 저는 Django 프레임워크를 활용하여 사내 ERP 시스템의 풀스택 개발을 진행하였고, 이를 Naver Cloud Platform(NCP) 위에 배포하여 안정적으로 운영 중입니다.
 
 
 
-### 기술 스택
+## 기술 스택
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
