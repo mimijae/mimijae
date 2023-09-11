@@ -37,6 +37,7 @@
 - [소상공인을 위한 마케팅 플랫폼] - Django(MSA), MySQL
   - [https://github.com/changuii/DigitalMarketing-Server]
 - [영어 고문서 검색기 프로그램] - C#, Winform, AccessDB
+  - [https://github.com/mimijae/Documents-Searcher]
 - [esp32와 통신을 주고받는 앱] - Flutter
   
 ## 공부해보고싶은 분야
