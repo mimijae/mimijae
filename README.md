@@ -30,7 +30,7 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-## 배포
+## 운영중인 서비스
 - [사내 ERP 웹 시스템] - Django, Bootstrap, HTML, CSS, JS, PostgreSql, Docker, Ubuntu, NCP
   
 ## 프로젝트 포트폴리오
