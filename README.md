@@ -30,10 +30,10 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-
-
-## 프로젝트 포트폴리오
+## 배포
 - [사내 ERP 웹 시스템] - Django, Bootstrap, HTML, CSS, JS, PostgreSql, Docker, Ubuntu, NCP
+  
+## 프로젝트 포트폴리오
 - [소상공인을 위한 마케팅 플랫폼] - Django(MSA), MySQL
   - [https://github.com/changuii/DigitalMarketing-Server]
 - [영어 고문서 검색기 프로그램] - C#, Winform, AccessDB
