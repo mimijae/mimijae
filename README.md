@@ -46,7 +46,7 @@
 - Cloud 아키텍처
   
 ## 개인 블로그
-
+- https://velog.io/@mimijae
 
 ## 이메일
 - [qzqzcaraz00@gamil.com]
