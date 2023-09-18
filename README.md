@@ -1,16 +1,16 @@
-# 👋**Welcome**
+# 👋**Welcome to my home**
 
-## 📌**Introduction**
+## 📌**소개**
 - 계명대학교 컴퓨터공학전공 컴퓨터공학부에 재학중인 이민재 입니다.
 - 백엔드 개발에 흥미를 느끼고있는 학생입니다.
 - 현재 저는 Django 프레임워크를 활용하여 사내 ERP 시스템의 풀스택 개발을 진행하였고, 이를 Naver Cloud Platform(NCP) 위에 배포하여 안정적으로 운영 중입니다. (23 9/11~ )
 
-## 🚀**Services in Operation**
+## 🚀**운영중인 서비스**
 - [사내 ERP 웹 시스템] - Django, Bootstrap, HTML, CSS, JS, PostgreSql, Docker, Ubuntu, NCP
   - [https://www.gugusystem.co.kr]
 
 
-## 💼**Project Portfolio**
+## 💼**프로젝트 포트폴리오**
 - [소상공인을 위한 마케팅 플랫폼] - Django(MSA), MySQL
   - [https://github.com/changuii/DigitalMarketing-Server]
 - [영어 고문서 검색기 프로그램] - C#, Winform, AccessDB
@@ -19,7 +19,7 @@
 
 
   
-## 🛠 **Tech Stack**
+## 🛠 **기술 스택**
 
 ### 📚 Languages
 
@@ -69,15 +69,15 @@
 
 
 
-## 🧐**An area of interest**
+## 🧐**관심 분야**
 - MSA
 - CI/CD
 - Cloud 아키텍처
   
-## 🖋**Blog**
+## 🖋**개인 블로그**
 - [https://velog.io/@mimijae]
 
-## 📧**Email**
+## 📧**이메일**
 - [qzqzcaraz00@gamil.com]
   
 ## 
