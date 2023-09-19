@@ -1,4 +1,4 @@
-# 👋**Welcome to my GitHub** <p align="right"> <img src="https://komarev.com/ghpvc/?username=mimijae&label=Profile%20views&color=af4bf1&style=flat" alt="mimijae" /> </p>
+# 👋**Welcome to my GitHub** ![](https://komarev.com/ghpvc/?username=mimijae&label=Profile%20views&color=af4bf1&style=flat)
 
 ## 📌**소개**
 - 계명대학교 컴퓨터공학전공 컴퓨터공학부에 재학중인 이민재 입니다.
