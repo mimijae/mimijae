@@ -6,7 +6,7 @@
 - 현재 저는 Django 프레임워크를 활용하여 사내 ERP 시스템의 풀스택 개발을 진행하였고, 이를 Naver Cloud Platform(NCP) 위에 배포하여 안정적으로 운영 중입니다. (23 9/11~ )
 
 ## 🚀**운영중인 서비스**
-- [사내 ERP 웹 시스템] - Django, Bootstrap, HTML, CSS, JS, PostgreSql, Docker, Ubuntu, NCP
+- [ERP(Enterprise Resource Planning) 웹 서비스] - Django, Bootstrap, HTML, CSS, JS, PostgreSQL, Docker, Ubuntu, NCP
   - [https://www.gugusystem.co.kr]
 
 
