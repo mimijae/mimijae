@@ -1,16 +1,16 @@
-# 👋**Welcome to my GitHub** ![](https://komarev.com/ghpvc/?username=mimijae&label=Profile%20views&color=af4bf1&style=flat) 
+# 👋Welcome to my GitHub ![](https://komarev.com/ghpvc/?username=mimijae&label=Profile%20views&color=af4bf1&style=flat) 
 
-## 📌**소개**
+## 📌소개
 - 계명대학교 컴퓨터공학전공 컴퓨터공학부에 재학중인 이민재 입니다.
 - 백엔드 개발에 흥미를 느끼고있는 학생입니다.
 - 현재 저는 Django 프레임워크를 활용하여 사내 ERP 시스템의 풀스택 개발을 진행하였고, 이를 Naver Cloud Platform(NCP) 위에 배포하여 안정적으로 운영 중입니다. (23 9/11~ )
 
-## 🚀**운영중인 서비스**
+## 🚀운영중인 서비스
 - [ERP(Enterprise Resource Planning) 웹 서비스] - Django, Bootstrap, HTML, CSS, JS, PostgreSQL, Docker, Ubuntu, NCP
   - [https://www.gugusystem.co.kr]
 
 
-## 💼**프로젝트 포트폴리오**
+## 💼프로젝트 포트폴리오
 - [소상공인을 위한 마케팅 플랫폼] - Django(MSA), MySQL
   - [https://github.com/changuii/DigitalMarketing-Server]
 - [영어 고문서 검색기 프로그램] - C#, Winform, AccessDB
@@ -19,7 +19,7 @@
 
 
   
-## 🛠 **기술 스택**
+## 🛠 기술 스택
 
 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -44,15 +44,15 @@
 
 
 
-## 🧐**관심 분야**
+## 🧐관심 분야
 - MSA
 - CI/CD
 - Cloud 아키텍처
   
-## 🖋**개인 블로그**
+## 🖋개인 블로그
 - [https://velog.io/@mimijae]
 
-## 📧**이메일**
+## 📧이메일
 - [qzqzcaraz00@gamil.com]
   
 ## 
