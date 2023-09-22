@@ -1,4 +1,5 @@
-# 👋**Welcome to my GitHub** ![](https://komarev.com/ghpvc/?username=mimijae&label=Profile%20views&color=af4bf1&style=flat)
+# 👋**Welcome to my GitHub** ![](https://komarev.com/ghpvc/?username=mimijae&label=Profile%20views&color=af4bf1&style=flat) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mimijae/&title=Hits)
+
 
 ## 📌**소개**
 - 계명대학교 컴퓨터공학전공 컴퓨터공학부에 재학중인 이민재 입니다.
