@@ -1,16 +1,19 @@
 # 👋Welcome to my GitHub ![](https://komarev.com/ghpvc/?username=mimijae&label=Profile%20views&color=af4bf1&style=flat) 
 
 <h2 style="display: inline-block; vertical-align: middle;">📌소개</h2>
+
 - 계명대학교 컴퓨터공학전공 컴퓨터공학부에 재학중인 이민재 입니다.
 - 백엔드 개발에 흥미를 느끼고있는 학생입니다.
 - 현재 저는 Django 프레임워크를 활용하여 ERP(Enterprise Resource Planning) 웹 서비스의 풀스택 개발을 진행하였고, 이를 Naver Cloud Platform(NCP) 위에 배포하여 안정적으로 운영 중입니다. (23 9/11~ )
 
 <h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2>
+
 - [ERP(Enterprise Resource Planning) 웹 서비스] - Django, Bootstrap, HTML, CSS, JS, PostgreSQL, Docker, Ubuntu, NCP
   - [https://www.gugusystem.co.kr]
 
 
 <h2 style="display: inline-block; vertical-align: middle;">💼프로젝트 포트폴리오</h2>
+
 - [소상공인을 위한 마케팅 플랫폼] - Django(MSA), MySQL
   - [https://github.com/changuii/DigitalMarketing-Server]
 - [영어 고문서 검색기 프로그램] - C#, Winform, AccessDB
@@ -45,14 +48,17 @@
 
 
 <h2 style="display: inline-block; vertical-align: middle;">🧐관심 분야</h2>
+
 - MSA
 - CI/CD
 - Cloud 아키텍처
   
 <h2 style="display: inline-block; vertical-align: middle;">🖋개인 블로그</h2>
+
 - [https://velog.io/@mimijae]
 
 <h2 style="display: inline-block; vertical-align: middle;">📧이메일</h2>
+
 - [qzqzcaraz00@gamil.com]
   
 ## 
