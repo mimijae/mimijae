@@ -47,11 +47,10 @@
 
 
 
-<h2 style="display: inline-block; vertical-align: middle;">🧐관심 분야</h2>
+<h2 style="display: inline-block; vertical-align: middle;">논문 연구 개발 프로젝트</h2>
 
-- MSA
-- CI/CD
-- Cloud 아키텍처
+- 저예산 고성능 클라우드 아키텍처: 스타트업을 위한 최적화 전략
+  - [https://github.com/wara-capstone/thesis_MJMK]
   
 <h2 style="display: inline-block; vertical-align: middle;">🖋개인 블로그</h2>
 
