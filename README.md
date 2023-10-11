@@ -4,7 +4,7 @@
 
 - 계명대학교 컴퓨터공학전공 컴퓨터공학부에 재학중인 이민재 입니다.
 - 백엔드 개발에 흥미를 느끼고있는 학생입니다.
-- 현재 저는 Django 프레임워크를 활용하여 ERP(Enterprise Resource Planning) 웹 서비스의 풀스택 개발을 진행하였고, 이를 Naver Cloud Platform(NCP) 위에 배포하여 안정적으로 운영 중입니다. (23 9/11~ )
+- 현재 저는 Django 프레임워크를 활용하여 중소기업의 ERP(Enterprise Resource Planning) 웹 서비스의 풀스택 개발을 진행하였고, 이를 Naver Cloud Platform(NCP) 위에 배포하여 안정적으로 운영 중입니다. (23 9/11~ )
 
 <h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2>
 
@@ -47,7 +47,7 @@
 
 
 
-<h2 style="display: inline-block; vertical-align: middle;">논문 연구 개발 프로젝트</h2>
+<h2 style="display: inline-block; vertical-align: middle;">📜논문 연구 개발 프로젝트</h2>
 
 - 저예산 고성능 클라우드 아키텍처: 스타트업을 위한 최적화 전략
   - [https://github.com/wara-capstone/thesis_MJMK]
