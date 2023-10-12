@@ -8,7 +8,7 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2>
 
-- [ERP(Enterprise Resource Planning) 웹 서비스] - Django, Bootstrap, HTML, CSS, JS, PostgreSQL, Docker, Ubuntu, NCP
+- [ERP(Enterprise Resource Planning) 웹 서비스]
   - [https://www.gugusystem.co.kr]
 
 
