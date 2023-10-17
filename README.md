@@ -58,7 +58,7 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">📧이메일</h2>
 
-- [qzqzcaraz00@gamil.com]
+- [qzqzcaraz00@gmail.com]
   
 ## 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mimijae&show_icons=true&theme=radical&locale=en&layout=compact" alt="mimijae" /></p>
