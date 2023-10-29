@@ -49,8 +49,8 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">📜논문 연구 개발 프로젝트</h2>
 
-- 저예산 고성능 클라우드 아키텍처: 스타트업을 위한 최적화 전략
-  - [https://github.com/wara-capstone/thesis_MJMK]
+- 스타트업을 위한 계층화 아키텍처 기반 최저비용 클라우드 아키텍처 연구
+  - [https://github.com/wara-capstone/Lowest-Cost-Cloud-Architecture]
   
 <h2 style="display: inline-block; vertical-align: middle;">🖋개인 블로그</h2>
 
