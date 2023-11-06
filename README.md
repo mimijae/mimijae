@@ -18,6 +18,8 @@
   - [https://github.com/changuii/DigitalMarketing-Server]
 - [영어 고문서 검색기 프로그램] - C#, Winform, AccessDB
   - [https://github.com/mimijae/Documents-Searcher]
+- [OFFLOAD - 짐 맡기는 플랫폼] - HTML, CSS, JS
+  - [https://github.com/wara-capstone/OFFLOAD]
 - [esp32와 통신을 주고받는 앱] - Flutter
 
 
