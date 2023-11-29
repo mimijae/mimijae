@@ -3,7 +3,7 @@
 <h2 style="display: inline-block; vertical-align: middle;">📌소개</h2>
 
 - 계명대학교 컴퓨터공학부 컴퓨터공학전공에 재학중인 이민재 입니다.
-- 백엔드 개발에 흥미를 느끼고있는 학생입니다.
+- 주 언어와 프레임워크는 Python, Django 이고 백엔드 개발에 흥미를 느끼고있는 학생입니다.
 - 현재 저는 중소기업의 ERP(Enterprise Resource Planning) 웹 서비스의 풀스택 개발을 진행하였고, 이를 배포하여 현업에서 안정적으로 운영 중입니다. (23 9/11~ )
 
 <h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2>
@@ -53,7 +53,8 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">📜논문 연구 개발 프로젝트</h2>
 
-- 스타트업을 위한 계층화 아키텍처 기반 최저비용 클라우드 아키텍처 연구
+[[한국 정보기술 학회 2023년도 추계종합학술대회](https://ki-it.or.kr/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/11910058)]
+- `스타트업을 위한 계층화 아키텍처 기반 최저비용 클라우드 아키텍처 연구`
   - [https://github.com/wara-capstone/Lowest-Cost-Cloud-Architecture]
   
 <h2 style="display: inline-block; vertical-align: middle;">🖋개인 블로그</h2>
@@ -63,7 +64,17 @@
 <h2 style="display: inline-block; vertical-align: middle;">📧이메일</h2>
 
 - [qzqzcaraz00@gmail.com]
-  
+
+<h2 style="display: inline-block; vertical-align: middle;">🎞경력</h2>
+
+- 구구시스템(주) ERP 개발 프로젝트 풀스택 개발자로 참여(2023.07~09)
+- 계명대 멋쟁이 사자처럼 대학 11기 수료(2023.08)  
+- 계명대 Tabula Rasa College 산학과제 영어 고문서 검색기 프로그램 개발 연구보조원(2022.09~11)
+
+<h2 style="display: inline-block; vertical-align: middle;">🏆수상</h2>
+
+- [4차 산업혁명 기반] 2023년 창의융합인재양성 공모전 우수상
+
 ## 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mimijae&show_icons=true&theme=radical&locale=en&layout=compact" alt="mimijae" /></p>
 
