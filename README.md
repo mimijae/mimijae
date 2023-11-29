@@ -8,18 +8,20 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2>
 
-- [ERP(Enterprise Resource Planning) 웹 서비스]
+- [구구시스템(주)-웹 서비스]
   - [https://www.gugusystem.co.kr]
 
 
 <h2 style="display: inline-block; vertical-align: middle;">💼프로젝트 포트폴리오</h2>
 
-- [소상공인을 위한 마케팅 플랫폼] - Django(MSA), MySQL
+- [소상공인을 위한 마케팅 플랫폼] - Django, MySQL, Redis, Kafka, MSA
   - [https://github.com/changuii/DigitalMarketing-Server]
-- [영어 고문서 검색기 프로그램] - C#, Winform, AccessDB
-  - [https://github.com/mimijae/Documents-Searcher]
 - [OFFLOAD - 짐 맡기는 플랫폼] - HTML, CSS, JS
   - [https://github.com/wara-capstone/OFFLOAD]
+- [오프라인 회원제 공산품 마트 데이터베이스 및 응용 프로그램] - C# Winform, ORACLE
+  - [https://github.com/mimijae/DBP-Final-Project]
+- [영어 고문서 검색기 프로그램] - C# Winform, AccessDB
+  - [https://github.com/mimijae/Documents-Searcher]
 - [esp32와 통신을 주고받는 앱] - Flutter
 
 
