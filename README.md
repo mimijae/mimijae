@@ -8,7 +8,7 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2>
 
-- [구구시스템(주)-웹 서비스]
+- [구구시스템(주)]
   - [https://www.gugusystem.co.kr]
 
 
@@ -53,7 +53,6 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">📜논문 연구 개발 프로젝트</h2>
 
-[[한국 정보기술 학회 2023년도 추계종합학술대회](https://ki-it.or.kr/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/11910058)]
 - `스타트업을 위한 계층화 아키텍처 기반 최저비용 클라우드 아키텍처 연구`
   - [https://github.com/wara-capstone/Lowest-Cost-Cloud-Architecture]
   
