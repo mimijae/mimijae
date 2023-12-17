@@ -6,10 +6,6 @@
 - 주 언어와 프레임워크는 Python, Django 이고 백엔드 개발에 흥미를 느끼고있는 학생입니다.
 - 현재 저는 중소기업의 ERP(Enterprise Resource Planning) 웹 서비스의 풀스택 개발을 진행하였고, 이를 배포하여 현업에서 안정적으로 운영 중입니다. (23 9/11~ )
 
-<h2 style="display: inline-block; vertical-align: middle;">🫂 소속 팀</h2>
-
-- [https://github.com/TEAM-WARA]
-
 <h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2>
 
 - 구구시스템(주)
