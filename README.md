@@ -2,9 +2,9 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">📌소개</h2>
 
-- 계명대학교 컴퓨터공학부 컴퓨터공학전공에 재학중인 이민재 입니다.
-- 주 언어와 프레임워크는 Python, Django 이고 백엔드 개발에 흥미를 느끼고있는 학생입니다.
-- 현재 저는 중소기업의 ERP(Enterprise Resource Planning) 웹 서비스의 풀스택 개발을 진행하였고, 이를 배포하여 현업에서 안정적으로 운영 중입니다. (23 9/11~ )
+- 계명대학교 컴퓨터공학과 재학중
+- 주 언어와 프레임워크 Python, Django, Dart, Flutter
+- 중소기업의 웹 서비스를 풀스택 개발, 이를 배포하여 현업에서 안정적으로 운영 중 (23 9/11~ )
 
 <h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2>
 
