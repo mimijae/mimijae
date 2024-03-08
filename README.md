@@ -3,7 +3,7 @@
 <h2 style="display: inline-block; vertical-align: middle;">📌소개</h2>
 
 - 계명대학교 컴퓨터공학과 재학중
-- 주 언어와 프레임워크 Python, Django, Dart, Flutter
+- 주 언어와 프레임워크 Python, Dart, Django, Flutter
 - 중소기업의 웹 서비스를 풀스택 개발, 이를 배포하여 현업에서 안정적으로 운영 중 (23 9/11~ )
 
 <h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2>
@@ -32,26 +32,77 @@
 <h2 style="display: inline-block; vertical-align: middle;">🛠 기술 스택</h2>
 
 
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![NCP](https://img.shields.io/badge/-NCP-03C75A?style=for-the-badge&logo=naver&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<table>
+<thead>
+  <tr>
+    <th colspan="5">Languages</th>
+  </tr>
+</thead>
+<tr>
+  <td align="center" width=110> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> </td>
+  <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="icon" width="60" height="60" /> </td>
+  <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
+  <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
+  <td align="center" width=110> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td> 
+</tr>
+<tr>
+  <td align="center" width=110>Python</td>
+  <td align="center" width=110>Dart</td>
+  <td align="center" width=110>HTML</td>
+  <td align="center" width=110>CSS</td>  
+  <td align="center" width=110>JavaScript</td>  
+</tr>
+<tr>
+   <td align="center" width=110> <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /> </td>
+  <td align="center" width=110> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> </td>
+  <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
+  <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
+  <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
+</tr>
+<tr> 
+  <td align="center" width=110>C#</td>
+  <td align="center" width=110>JAVA</td>
+  <td align="center" width=110>PostgreSQL</td>
+  <td align="center" width=110>MySQL</td>
+  <td align="center" width=110>SQLite</td>
+</tr>
+</table>
 
+<table>
+<thead>
+  <tr>
+    <th colspan="3">Frameworks & Libraries</th>
+  </tr>
+</thead>
+<tr>
+  <td align="center" width=110> <img height=85 width=85 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg"/> </td>
+  <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="icon" width="65" height="65" /> </td>
+  <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="icon" width="65" height="65" /> </td>
+</tr>
+<tr> 
+  <td align="center" width=110>Django</td>
+  <td align="center" width=110>Spring Boot</td>
+  <td align="center" width=110>Flutter</td>
+</tr>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="3">Tools</th>
+  </tr>
+</thead>
+<tr>
+  <td align="center" width=110> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /> </td>
+  <td align="center" width=110> <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /> </td>
+  <td align="center" width=110> <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /> </td>
+</tr>
+<tr>
+  <td align="center" width=110>Docker</td>
+  <td align="center" width=110>NGINX</td>
+  <td align="center" width=110>AWS</td>
+</tr>
+</table>
 
 
 <h2 style="display: inline-block; vertical-align: middle;">📜논문 연구 개발 프로젝트</h2>
@@ -69,7 +120,7 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">🎞경력</h2>
 
-- 구구시스템(주) ERP 개발 프로젝트 풀스택 개발자로 참여(2023.07~09)
+- 구구시스템(주) 웹 서비스 프로젝트 풀스택 개발자로 참여(2023.07~09)
 - 계명대 멋쟁이 사자처럼 대학 11기 수료(2023.08)  
 - 계명대 Tabula Rasa College 산학과제 영어 고문서 검색기 프로그램 개발 연구보조원(2022.09~11)
 
@@ -77,10 +128,11 @@
 
 - [4차 산업혁명 기반] 2023년 창의융합인재양성 공모전 우수상
 
-## 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mimijae&show_icons=true&theme=radical&locale=en&layout=compact" alt="mimijae" /></p>
+<h2 style="display: inline-block; vertical-align: middle;">📊 GitHub Statistics</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mimijae&show_icons=true&theme=radical&locale=en" alt="mimijae" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mimijae&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=f48c06&icon_color=2bbc8a&text_color=c9cacc" alt="mimijae" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mimijae&theme=dark" alt="mimijae" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mimijae&show_icons=true&locale=en&bg_color=000000&title_color=f48c06&icon_color=2bbc8a&text_color=c9cacc" alt="mimijae" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mimijae&theme=dark&background=000000" alt="mimijae" /></p>
 
