@@ -1,93 +1,43 @@
-# 👋Have a good day, friend! ![](https://komarev.com/ghpvc/?username=mimijae&label=Profile%20views&color=af4bf1&style=flat) 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Have%20a%20good%20day,%20friend!&desc=Welcome%20to%20my%20GitHub😆&fontSize=70&descSize=30&fontAlign=50&fontAlignY=30&color=gradient" alt="header" style="width:100%;">
 
-<h2 style="display: inline-block; vertical-align: middle;">💼개인 포트폴리오 사이트</h2>
+<h1 align="center">🌈Hi, I'm Min Jae Lee!</h1>
+<h3 align="center">An amazing backend developer from Korea👨‍💻</h3>
+<h3 align="center"><i><b> 🐳Dive into my world of development - Check out my portfolio!🚀</b></i></h3>
+<p align="center">
+<a href="https://minjae-devfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-5588EE?style=for-the-badge&logo=Netlify&logoColor=white&link=https://minjae-devfolio.netlify.app" alt="Portfolio Badge">
+</a>
+</p>
 
- - [https://minjae-devfolio.netlify.app]
+<p align="center">"I'm currently a senior at Keimyung University, majoring in Computer Science Engineering."
+<br>"I'm a developer who primarily works with Flutter and Django frameworks, crafting seamless experiences and robust backends that power the next generation of applications."</p>
 
-<h2 style="display: inline-block; vertical-align: middle;">🛠 기술 스택</h2>
+<h3 align="center">🌏 Connect with me 🌏</h3>
+<p align="center">
+  <a href="https://instagram.com/minj_ae__" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://velog.io/@mimijae/posts" target="_blank">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=RSS&logoColor=white"/>
+  </a>
+  <a href="mailto:qzqzcaraz00@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,dart,html,css,java,js,py,django,flutter,spring,postgres,mysql,sqlite,firebase,redis,ubuntu,docker,aws,nginx,git,postman,notion,apple" />
+  </a>
+</p>
 
-<table>
-<thead>
-  <tr>
-    <th colspan="5">Languages</th>
-  </tr>
-</thead>
-<tr>
-  <td align="center" width=110> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> </td>
-  <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="icon" width="60" height="60" /> </td>
-  <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
-  <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
-  <td align="center" width=110> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td> 
-</tr>
-<tr>
-  <td align="center" width=110>Python</td>
-  <td align="center" width=110>Dart</td>
-  <td align="center" width=110>HTML</td>
-  <td align="center" width=110>CSS</td>  
-  <td align="center" width=110>JavaScript</td>  
-</tr>
-<tr>
-   <td align="center" width=110> <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /> </td>
-  <td align="center" width=110> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> </td>
-  <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
-  <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
-  <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
-</tr>
-<tr> 
-  <td align="center" width=110>C#</td>
-  <td align="center" width=110>JAVA</td>
-  <td align="center" width=110>PostgreSQL</td>
-  <td align="center" width=110>MySQL</td>
-  <td align="center" width=110>SQLite</td>
-</tr>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="3">Frameworks & Libraries</th>
-  </tr>
-</thead>
-<tr>
-  <td align="center" width=110> <img height=85 width=85 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg"/> </td>
-  <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="icon" width="65" height="65" /> </td>
-  <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="icon" width="65" height="65" /> </td>
-</tr>
-<tr> 
-  <td align="center" width=110>Django</td>
-  <td align="center" width=110>Spring Boot</td>
-  <td align="center" width=110>Flutter</td>
-</tr>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="3">Tools</th>
-  </tr>
-</thead>
-<tr>
-  <td align="center" width=110> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /> </td>
-  <td align="center" width=110> <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /> </td>
-  <td align="center" width=110> <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /> </td>
-</tr>
-<tr>
-  <td align="center" width=110>Docker</td>
-  <td align="center" width=110>NGINX</td>
-  <td align="center" width=110>AWS</td>
-</tr>
-</table>
-
-<h2 style="display: inline-block; vertical-align: middle;">🏆수상</h2>
-
-- [4차 산업혁명 기반] 2023년 창의융합인재양성 공모전 우수상
-
-<h2 style="display: inline-block; vertical-align: middle;">📊 GitHub Statistics</h2>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mimijae&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=f48c06&icon_color=2bbc8a&text_color=c9cacc" alt="mimijae" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mimijae&show_icons=true&locale=en&bg_color=000000&title_color=f48c06&icon_color=2bbc8a&text_color=c9cacc" alt="mimijae" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mimijae&theme=dark&background=000000" alt="mimijae" /></p>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimijae&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mimijae&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mimijae&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
