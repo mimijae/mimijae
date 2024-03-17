@@ -20,9 +20,6 @@
   <a href="https://velog.io/@mimijae/posts" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=RSS&logoColor=white"/>
   </a>
-  <a href="mailto:qzqzcaraz00@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
