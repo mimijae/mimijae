@@ -25,13 +25,6 @@
   </a>
 </p>
 
-<!-- Centered GitHub Stats Card -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mimijae&show_icons=true&theme=material-palenight&hide_border=true&bg_color=282C34&icon_color=D3D3D3&text_color=D3D3D3&title_color=AAAAAA&count_private=true" width=80%" />
-  </a>
-</p>
-
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
