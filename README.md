@@ -2,7 +2,7 @@
 <h1 align="center">Lee Min Jae !</h1>
 <h3 align="center">I'm a MCP Cat</h3>
 
-<!-- Coding Cat GIF from Example 2 -->
+<!-- Coding Cat GIF -->
 <p align="center">
   <a href="https://github.com/mimijae">
     <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Cat" width="200"/>
@@ -17,9 +17,24 @@
   </a>
 </p>
 
+<!-- Tech Stack Section -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,flutter,spring,postgres,firebase,redis,ubuntu,docker,nginx,aws" />
+  </a>
+</p>
+
+<!-- Centered GitHub Stats Card -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=devpla&show_icons=true&theme=material-palenight&hide_border=true&bg_color=282C34&icon_color=D3D3D3&text_color=D3D3D3&title_color=AAAAAA&count_private=true" width="48%" />
+  </a>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devpla&theme=react-dark&bg_color=282C34&hide_border=true&line=AAAAAA&color=D3D3D3" width="98%"/>
   </a>
 </p>
