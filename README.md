@@ -25,9 +25,7 @@
   </a>
 </p>
 
-<!-- Activity Graph -->
+<!-- Footer Section -->
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mimijae&theme=react-dark&bg_color=282C34&hide_border=true&line=AAAAAA&color=D3D3D3" width="98%"/>
-  </a>
+  <em>Thanks for stopping by! Keep coding, keep dreaming! © Lee Min Jae</em>
 </p>
