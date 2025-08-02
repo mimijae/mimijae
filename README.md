@@ -15,6 +15,9 @@
   <a href="https://proximal-hose-492.notion.site/if-1d041982aab18008a84af7bf280d3d99" target="_blank">
     <img alt="if(이민재)" src="https://img.shields.io/badge/-if%28이민재%29-808080?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
+  <a href="https://portfolio.millenniumrhino.com/" target="_blank">
+    <img alt="Lee Min Jae Portfolio" src="https://img.shields.io/badge/-Portfolio-808080?style=for-the-badge&logo=globe&logoColor=white"/>
+  </a>
 </p>
 
 <!-- Tech Stack Section -->
