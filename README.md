@@ -1,7 +1,7 @@
 <h1 align="center">Lee Min Jae</h1>
 
 <p align="center">
-  A Builder, Indie Hacker, Maker, Vibe Coder, Product Builder, Full-Stack Developer, Mobile Developer, Software Engineer, Product Engineer, Founder & Developer, and Solo Builder.
+  A Builder, Indie Hacker, Maker, Vibe Coder, Product Builder, Full-Stack Developer, Mobile Developer, Software Engineer, Product Engineer, Founder & Developer, Solo Builder, Bug Creator, Bug Fixer, UI Tweaker, Pixel Pusher, Feature Shipper, Late-Night Debugger, Weekend Deployer, Documentation Avoider, and Professional Googler.
 </p>
 
 <br>
