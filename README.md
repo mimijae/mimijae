@@ -4,11 +4,7 @@
   A Builder, Indie Hacker, Maker, Vibe Coder, Product Builder, Full-Stack Developer, Mobile Developer, Software Engineer, Product Engineer, Founder & Developer, and Solo Builder.
 </p>
 
-<p align="center">
-  <a href="https://www.swoopbox.com/ko">
-    <img src="https://img.shields.io/badge/Featured_Project-Swoopbox-34C759?style=for-the-badge">
-  </a>
-</p>
+<br>
 
 <h2 align="center">
   🚀 Swoopbox : 올인원 아카이빙 & 클립보드
