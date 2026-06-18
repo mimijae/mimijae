@@ -1,34 +1,40 @@
-<!-- Profile Title & Intro -->
-<h1 align="center">Lee Min Jae !</h1>
-<h3 align="center">I'm a MCP Cat</h3>
+<h1 align="center">Lee Min Jae</h1>
 
-<!-- Coding Cat GIF -->
 <p align="center">
-  <a href="https://github.com/mimijae">
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Cat" width="200"/>
+  A Builder, Indie Hacker, Maker, Vibe Coder, Product Builder, Full-Stack Developer, Mobile Developer, Software Engineer, Product Engineer, Founder & Developer, and Solo Builder.
+</p>
+
+<p align="center">
+  <a href="https://www.swoopbox.com/ko">
+    <img src="https://img.shields.io/badge/Featured_Project-Swoopbox-34C759?style=for-the-badge">
   </a>
 </p>
 
-<!-- Notion Portfolio Link Section -->
-<h3 align="center">🌏 Explore My Portfolio 🌏</h3>
+<h2 align="center">
+  🚀 Swoopbox : 올인원 아카이빙 & 클립보드
+</h2>
+
 <p align="center">
-  <a href="https://proximal-hose-492.notion.site/if-1d041982aab18008a84af7bf280d3d99" target="_blank">
-    <img alt="if(이민재)" src="https://img.shields.io/badge/-if%28이민재%29-808080?style=for-the-badge&logo=notion&logoColor=white"/>
+  링크 · 텍스트 · 이미지 · 파일 저장<br/>
+  커스텀 키보드로 어디서든 바로 붙여넣기
+</p>
+
+<p align="center">
+  <a href="https://www.swoopbox.com/ko">
+    <img src="https://img.shields.io/badge/Website-34C759?style=flat-square&logo=safari&logoColor=white">
   </a>
-  <a href="https://www.millenniumrhino.com/" target="_blank">
-    <img alt="Lee Min Jae Portfolio" src="https://img.shields.io/badge/-Portfolio-808080?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white">
   </a>
 </p>
 
-<!-- Tech Stack Section -->
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flutter,spring,postgres,firebase,redis,ubuntu,docker,nginx,aws" />
-  </a>
-</p>
+<br>
 
-<!-- Footer Section -->
+<h2 align="center">⚡ Tech Stack</h2>
+
 <p align="center">
-  <em>Thanks for stopping by! Keep coding, keep dreaming! © Lee Min Jae</em>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postgres,docker,nginx,aws,ubuntu,spring,django" />
 </p>
